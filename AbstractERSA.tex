@@ -1,0 +1,69 @@
+\documentclass[10pt,parskip,abstracton,notitlepage]{scrartcl}
+
+\usepackage{amssymb, amsmath, amsthm, graphics, graphicx, longtable, setspace, makeidx, marvosym, microtype, booktabs, subfigure, tabularx,authblk, lipsum, siunitx, lmodern, makecell, rotating, pdflscape}
+\usepackage{multirow}
+\usepackage[a4paper]{geometry}
+\usepackage[UKenglish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenx}% For proper input encoding
+%\usepackage[margin=10pt,font=small,labelfont=bf,labelsep=endash]{caption}
+\usepackage[style=british]{csquotes}
+
+\usepackage[style=authoryear,natbib=true, 
+url=false,
+isbn=false,
+doi=false,
+bibencoding=utf8,
+maxbibnames=10, 
+maxcitenames = 2, 
+mincitenames = 1, 
+firstinits = true,
+uniquename=false, 
+uniquelist=false,
+useprefix=true,
+backend=biber]{biblatex}
+\renewcommand*{\compcitedelim}{\addsemicolon\space}
+\renewbibmacro{in:}{}
+\setlength\bibhang{20pt}
+\bibliography{reference}
+\AtEveryBibitem{%
+	\clearfield{day}%
+	\clearfield{month}%
+	\clearfield{endday}%
+	\clearfield{endmonth}%
+}
+\doublespacing
+%\onehalfspacing
+\KOMAoptions{DIV=last}
+\usepackage[pdftex,colorlinks=true,citecolor=magenta,urlcolor=magenta,pdfstartview=FitH]{hyperref}
+\pdfcompresslevel=9
+\hypersetup{pdftitle=Heterogeneous Determinants of Structural European Regional Growth,
+	pdfauthor={Thomas de Graaff, Frank G. van Oort, Mark Thissen}}
+
+
+\begin{document}
+	
+	\title{Heterogeneous Determinants of Structural European Regional Growth\thanks{Corresponding author: Thomas de Graaff. Email: \url{t.de.graaff@vu.nl}. 
+		}}
+		\author[1]{\large Thomas de Graaff}
+		\author[2]{\large Frank G. van Oort}
+		\author[3]{\large Mark Thissen}
+		\affil[1]{\normalsize Department of Spatial Economics, VU University Amsterdam, the Netherlands}
+		\affil[2]{\normalsize Erasmus University Rotterdam, The Netherlands}
+		\affil[3]{\normalsize PBL Netherlands Environmental Assessment Agency}
+		
+		\date{\normalsize\today}
+		\maketitle
+		
+		\begin{abstract}
+			\noindent
+			\newline
+			Negative and positive growth spillovers make it difficult to analyze the performance of regions and thereby the effectiveness of regional investments to enhance a region's competitiveness. A region may implement excellent regional policies and relatively outperform many other regions while having a negative growth rate. This negative growth rate may be caused by a collapse in the demand for goods and services from other regions. In this paper, we specifically distinguish between regional growth that is the result of an increase in demand in other parts of the world, and growth that is due to a change in structural factors strengthening a region's competitiveness and increasing its productivity. To do so, we make use of an unique, consistent and complete database of the PBL Netherlands Environmental Assessment Agency with detailed regional trade between 256 European Nuts2 regions and the trade of these regions with the rest of the world. To assess the effectiveness of specific regional investments, we estimate sector specific regional growth models and allow estimates to vary over space and specific network structures (trade, FDI and co-patent links). Our (preliminary) results suggest (\textit{i}) a very moderate average impact of regional investments, (\textit{ii}) large regional differences in the effectiveness of regional investments and (\textit{iii}) that space and networks are crucial in explaining this heterogeneity.\\
+			\newline
+			{\small \textbf{Keywords: Regional Growth.}}\\
+			{\small JEL classification: .}
+		\end{abstract}
+
+\section{}
+
+\end{document}

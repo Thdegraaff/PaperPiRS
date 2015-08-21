@@ -1,0 +1,671 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{ABREU2005}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d08a702398406b43ad2fc57f0f3f52d3}{Abreu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d08a702398406b43ad2fc57f0f3f52d3}{Abreu}{A\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Thela Thesis Publishers}%
+      }
+      \strng{namehash}{d08a702398406b43ad2fc57f0f3f52d3}
+      \strng{fullhash}{d08a702398406b43ad2fc57f0f3f52d3}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Spatial Determinants of Economic Growth and Technology Diffusion}}
+      \field{title}{{Spatial Determinants of Economic Growth and Technology Diffusion}}
+      \field{year}{2005}
+    \endentry
+    \entry{balassa1965trade}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=fe0b8096ee37214413e70c8aba10bfa3}{Balassa}{B\bibinitperiod}{Bela}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=fe0b8096ee37214413e70c8aba10bfa3}{Balassa}{B\bibinitperiod}{Bela}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \strng{fullhash}{fe0b8096ee37214413e70c8aba10bfa3}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{1965}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Trade liberalisation and ``revealed'' comparative advantage1}
+      \field{journaltitle}{The Manchester School}
+      \field{number}{2}
+      \field{title}{Trade liberalisation and ``revealed'' comparative advantage1}
+      \field{volume}{33}
+      \field{year}{1965}
+      \field{pages}{99\bibrangedash 123}
+    \endentry
+    \entry{baldwin2009european}{misc}{}
+      \name{labelname}{2}{}{%
+        {{hash=f923bf5fba7af4af14e45957ecc62b0a}{Baldwin}{B\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=07c671bb40a2b227624f4f8b4b50e4c1}{Wyplosz}{W\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f923bf5fba7af4af14e45957ecc62b0a}{Baldwin}{B\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=07c671bb40a2b227624f4f8b4b50e4c1}{Wyplosz}{W\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {New York: McGraw-Hill}%
+      }
+      \strng{namehash}{c3c6409eb234b43071171cda56df1ca5}
+      \strng{fullhash}{c3c6409eb234b43071171cda56df1ca5}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{European Economic Integration}
+      \field{title}{European Economic Integration}
+      \field{year}{2009}
+    \endentry
+    \entry{barca2009agenda}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1b81e806bebe378d7bb0588e30d4b26d}{Barca}{B\bibinitperiod}{Fabrizio}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1b81e806bebe378d7bb0588e30d4b26d}{Barca}{B\bibinitperiod}{Fabrizio}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Report for the European Commission, Brussels}%
+      }
+      \strng{namehash}{1b81e806bebe378d7bb0588e30d4b26d}
+      \strng{fullhash}{1b81e806bebe378d7bb0588e30d4b26d}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{An agenda for a Reformed Cohesion Policy; a place-based approach to meeting European Union challenges and expectations}
+      \field{title}{An agenda for a Reformed Cohesion Policy; a place-based approach to meeting European Union challenges and expectations}
+      \field{year}{2009}
+    \endentry
+    \entry{barca2012case}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=1b81e806bebe378d7bb0588e30d4b26d}{Barca}{B\bibinitperiod}{Fabrizio}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=218fa4b88846404522444d92b7435648}{McCann}{M\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=00da03e9a2ca82cc436d1693a701b106}{Rodr{í}guez-Pose}{R\bibinithyphendelim P\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1b81e806bebe378d7bb0588e30d4b26d}{Barca}{B\bibinitperiod}{Fabrizio}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=218fa4b88846404522444d92b7435648}{McCann}{M\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=00da03e9a2ca82cc436d1693a701b106}{Rodr{í}guez-Pose}{R\bibinithyphendelim P\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{e01212a5e1c948fa30bac71917251aa2}
+      \strng{fullhash}{6c727e260954407c74f0c1e4da7e361b}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The case for regional development intervention: place-based versus place-neutral approaches}
+      \field{journaltitle}{Journal of regional science}
+      \field{number}{1}
+      \field{title}{The case for regional development intervention: place-based versus place-neutral approaches}
+      \field{volume}{52}
+      \field{year}{2012}
+      \field{pages}{134\bibrangedash 152}
+    \endentry
+    \entry{beaudry2009s}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=8440e246499238def57386d06beed5c5}{Beaudry}{B\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=416013c06170b910f164c539ad3958e0}{Schiffauerova}{S\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8440e246499238def57386d06beed5c5}{Beaudry}{B\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=416013c06170b910f164c539ad3958e0}{Schiffauerova}{S\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{927513389c6590f4a7e3bc0b5e394dc6}
+      \strng{fullhash}{927513389c6590f4a7e3bc0b5e394dc6}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Who's right, Marshall or Jacobs? The localization versus urbanization debate}
+      \field{journaltitle}{Research Policy}
+      \field{number}{2}
+      \field{title}{Who's right, Marshall or Jacobs? The localization versus urbanization debate}
+      \field{volume}{38}
+      \field{year}{2009}
+      \field{pages}{318\bibrangedash 337}
+    \endentry
+    \entry{bivand2014package}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=a48f5d015a48190e796b22a334e99aa1}{Bivand}{B\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=11c3c0cbc0786ff5b6f50d81bd4a2c77}{Yu}{Y\bibinitperiod}{Danlin}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9799a934dc3537f895ee85cf87e8d00a}{Nakaya}{N\bibinitperiod}{Tomoki}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=232915dd0267eeea0dacd98acabf3507}{Garcia-Lopez}{G\bibinithyphendelim L\bibinitperiod}{Miquel-Angel}{M\bibinithyphendelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ddb5510e8727f309aa8a84dcacccc366}{Bivand}{B\bibinitperiod}{Maintainer\bibnamedelima Roger}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=a48f5d015a48190e796b22a334e99aa1}{Bivand}{B\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=11c3c0cbc0786ff5b6f50d81bd4a2c77}{Yu}{Y\bibinitperiod}{Danlin}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9799a934dc3537f895ee85cf87e8d00a}{Nakaya}{N\bibinitperiod}{Tomoki}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=232915dd0267eeea0dacd98acabf3507}{Garcia-Lopez}{G\bibinithyphendelim L\bibinitperiod}{Miquel-Angel}{M\bibinithyphendelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ddb5510e8727f309aa8a84dcacccc366}{Bivand}{B\bibinitperiod}{Maintainer\bibnamedelima Roger}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1bfb1f214d90a69b48df5ebf27c24768}
+      \strng{fullhash}{e816e4ffd193818923a35bad2775b4d1}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Package `spgwr'}
+      \field{journaltitle}{R Software Package}
+      \field{title}{Package `spgwr'}
+      \field{year}{2014}
+    \endentry
+    \entry{Bristow2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c1f2ed383202ca8f79c6ced5c4ff9374}{Bristow}{B\bibinitperiod}{Gillian}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c1f2ed383202ca8f79c6ced5c4ff9374}{Bristow}{B\bibinitperiod}{Gillian}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c1f2ed383202ca8f79c6ced5c4ff9374}
+      \strng{fullhash}{c1f2ed383202ca8f79c6ced5c4ff9374}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Everyone's a 'winner': Problematising the discourse of regional competitiveness}}
+      \field{abstract}{Since the early1990s,the concept of regional competitiveness has become a hegemonic discourse within public policy circles in developed countries. However, it is a somewhat chaotic and ill-defined discourse based on a relatively narrow conception of how regions compete, prosper and grow. This paper seeks to problematise the discourse with reference to theory, and to explain how and why it has assumed such significance in policy circles. It is argued that the answer lies within the policy process and the imperative of legitimating certain courses of policy action.}
+      \field{isbn}{1468-2702}
+      \field{issn}{14682702}
+      \field{journaltitle}{Journal of Economic Geography}
+      \field{title}{{Everyone's a 'winner': Problematising the discourse of regional competitiveness}}
+      \field{volume}{5}
+      \field{year}{2005}
+      \field{pages}{285\bibrangedash 304}
+      \verb{doi}
+      \verb 10.1093/jeg/lbh063
+      \endverb
+      \keyw{Competitiveness discourse,Porter,Regional competitiveness indicators,Spatial competition}
+    \endentry
+    \entry{Bristow2010}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c1f2ed383202ca8f79c6ced5c4ff9374}{Bristow}{B\bibinitperiod}{Gillian}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c1f2ed383202ca8f79c6ced5c4ff9374}{Bristow}{B\bibinitperiod}{Gillian}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c1f2ed383202ca8f79c6ced5c4ff9374}
+      \strng{fullhash}{c1f2ed383202ca8f79c6ced5c4ff9374}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Resilient regions: Re-`place'ing regional competitiveness}}
+      \field{abstract}{Resilience is attracting increasing interest in the thinking and policy discourses around regional development. However, regional development policy remains dominated by a narrow discourse of competitiveness that appears to have negative implications for resilience and is subject to increasing and widespread challenge and critique. Using the Cultural Political Economy approach, this paper explores the complex relationships that exist between competitiveness and resilience and argues that de-contextualised, placeless competitiveness strategies lead to problems of resilience that can be at least partly overcome with respect to more contextualised approaches.}
+      \field{isbn}{<null>}
+      \field{issn}{17521378}
+      \field{journaltitle}{Cambridge Journal of Regions, Economy and Society}
+      \field{title}{{Resilient regions: Re-`place'ing regional competitiveness}}
+      \field{volume}{3}
+      \field{year}{2010}
+      \field{pages}{153\bibrangedash 167}
+      \verb{doi}
+      \verb 10.1093/cjres/rsp030
+      \endverb
+      \keyw{Competitiveness,Cultural political economy,Regional development policy,Resilience}
+    \endentry
+    \entry{brunsdon1998geographically}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=98a0d3717c90f41d9846124c798cbfc3}{Brunsdon}{B\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=69bcd3bf121e8ea3c62e0cd740cef8c1}{Fotheringham}{F\bibinitperiod}{Stewart}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=18e010ad6f178bf5db6f777026b33739}{Charlton}{C\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=98a0d3717c90f41d9846124c798cbfc3}{Brunsdon}{B\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=69bcd3bf121e8ea3c62e0cd740cef8c1}{Fotheringham}{F\bibinitperiod}{Stewart}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=18e010ad6f178bf5db6f777026b33739}{Charlton}{C\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{ea6b3dd81137087039a1f3b845ffcc99}
+      \strng{fullhash}{8c197f09c7cda280ce89c0e1fb99274f}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Geographically weighted regression}
+      \field{journaltitle}{Journal of the Royal Statistical Society: Series D (The Statistician)}
+      \field{number}{3}
+      \field{title}{Geographically weighted regression}
+      \field{volume}{47}
+      \field{year}{1998}
+      \field{pages}{431\bibrangedash 443}
+    \endentry
+    \entry{dall2003regional}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=25fd2299e74aa1486e91cf55f7fc42a5}{Dall'erba}{D\bibinitperiod}{Sandy}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d0895b90b18be19a6013abe240ee4be2}{Le\bibnamedelima Gallo}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=25fd2299e74aa1486e91cf55f7fc42a5}{Dall'erba}{D\bibinitperiod}{Sandy}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d0895b90b18be19a6013abe240ee4be2}{Le\bibnamedelima Gallo}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{19a2f2676fe3af67fcea7b2983c181d1}
+      \strng{fullhash}{19a2f2676fe3af67fcea7b2983c181d1}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Regional convergence and the impact of European structural funds over 1989-1999: A spatial econometric analysis}
+      \field{title}{Regional convergence and the impact of European structural funds over 1989-1999: A spatial econometric analysis}
+      \field{year}{2003}
+    \endentry
+    \entry{DeGroot2009a}{incollection}{}
+      \name{labelname}{3}{}{%
+        {{hash=3770c53c7ac3e021404b786d7b15ccde}{Groot}{G\bibinitperiod}{H\bibnamedelima L\bibnamedelima F}{H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim F\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=9be9496a852f6066fd658b9e55293245}{Poot}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=861f30c9286bed6ae9f0e5aae73f64b1}{Smit}{S\bibinitperiod}{M\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=3770c53c7ac3e021404b786d7b15ccde}{Groot}{G\bibinitperiod}{H\bibnamedelima L\bibnamedelima F}{H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim F\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=9be9496a852f6066fd658b9e55293245}{Poot}{P\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=861f30c9286bed6ae9f0e5aae73f64b1}{Smit}{S\bibinitperiod}{M\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=cbbd5e7eb9c763ef20065742146cb383}{Nijkamp}{N\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=21a95beee2cdcef649d58179348b779c}{Capello}{C\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar}%
+      }
+      \strng{namehash}{145c4c1e4e00f2503308f018e0782073}
+      \strng{fullhash}{8b4d26a45dece457254dc37ec98bd294}
+      \field{sortinit}{d}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Agglomeration Externalities, Innovation and Regional Growth: theoretical perspectives and meta-analysis}}
+      \field{booktitle}{Handbook of Regional Growth and Development Theories}
+      \field{number}{14}
+      \field{title}{{Agglomeration Externalities, Innovation and Regional Growth: theoretical perspectives and meta-analysis}}
+      \field{year}{2009}
+      \field{pages}{256\bibrangedash 281}
+      \keyw{Growth,Innovation,Meta-analysis}
+    \endentry
+    \entry{finger1979measure}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=09b05232cbfd4e4ea47c5f05096bd21b}{Finger}{F\bibinitperiod}{J\bibnamedelima Michael}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5ecf897fb17af7a0c5ecaf9bff604f7d}{Kreinin}{K\bibinitperiod}{Mordechai\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=09b05232cbfd4e4ea47c5f05096bd21b}{Finger}{F\bibinitperiod}{J\bibnamedelima Michael}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=5ecf897fb17af7a0c5ecaf9bff604f7d}{Kreinin}{K\bibinitperiod}{Mordechai\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Economic Society}%
+      }
+      \strng{namehash}{60dde0e30e1871736710743459d6c15c}
+      \strng{fullhash}{60dde0e30e1871736710743459d6c15c}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A measure of'export similarity'and its possible uses}
+      \field{journaltitle}{Economic Journal}
+      \field{number}{356}
+      \field{title}{A measure of'export similarity'and its possible uses}
+      \field{volume}{89}
+      \field{year}{1979}
+      \field{pages}{905\bibrangedash 12}
+    \endentry
+    \entry{fotheringham2003geographically}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=341c807894a88560d887468ce1fbfb84}{Fotheringham}{F\bibinitperiod}{A\bibnamedelima Stewart}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=98a0d3717c90f41d9846124c798cbfc3}{Brunsdon}{B\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=18e010ad6f178bf5db6f777026b33739}{Charlton}{C\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=341c807894a88560d887468ce1fbfb84}{Fotheringham}{F\bibinitperiod}{A\bibnamedelima Stewart}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=98a0d3717c90f41d9846124c798cbfc3}{Brunsdon}{B\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=18e010ad6f178bf5db6f777026b33739}{Charlton}{C\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \&amp; Sons}%
+      }
+      \strng{namehash}{629e906dd28e6d947e6b1f0211884f7a}
+      \strng{fullhash}{c80629133cb1e92aca1cbde5f592e2d9}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Geographically weighted regression: the analysis of spatially varying relationships}
+      \field{title}{Geographically weighted regression: the analysis of spatially varying relationships}
+      \field{year}{2003}
+    \endentry
+    \entry{glaeser2001economics}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0e5b7d1592f63ec896b5b401bf298645}{Glaeser}{G\bibinitperiod}{Edward\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0e5b7d1592f63ec896b5b401bf298645}{Glaeser}{G\bibinitperiod}{Edward\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0e5b7d1592f63ec896b5b401bf298645}
+      \strng{fullhash}{0e5b7d1592f63ec896b5b401bf298645}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The economics of location-based tax incentives}
+      \field{journaltitle}{Harvard Institute of Economic Research Paper}
+      \field{number}{1932}
+      \field{title}{The economics of location-based tax incentives}
+      \field{year}{2001}
+    \endentry
+    \entry{huggins2010regional}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e36c13e6f4c5c62d5b20e341a2270e33}{Huggins}{H\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e36c13e6f4c5c62d5b20e341a2270e33}{Huggins}{H\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \&amp; Francis}%
+      }
+      \strng{namehash}{e36c13e6f4c5c62d5b20e341a2270e33}
+      \strng{fullhash}{e36c13e6f4c5c62d5b20e341a2270e33}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Regional competitive intelligence: benchmarking and policy-making}
+      \field{journaltitle}{Regional Studies}
+      \field{number}{5}
+      \field{title}{Regional competitive intelligence: benchmarking and policy-making}
+      \field{volume}{44}
+      \field{year}{2010}
+      \field{pages}{639\bibrangedash 658}
+    \endentry
+    \entry{le2006evaluating}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d0895b90b18be19a6013abe240ee4be2}{Le\bibnamedelima Gallo}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cf57721dc13f39b1a8e86bde467de834}{Dall'Erba}{D\bibinitperiod}{Sandy}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d0895b90b18be19a6013abe240ee4be2}{Le\bibnamedelima Gallo}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cf57721dc13f39b1a8e86bde467de834}{Dall'Erba}{D\bibinitperiod}{Sandy}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{bb6e22fed4d80bbd47d08c45d04e8024}
+      \strng{fullhash}{bb6e22fed4d80bbd47d08c45d04e8024}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Evaluating the Temporal and Spatial Heterogeneity of the European Convergence Process, 1980--1999*}
+      \field{journaltitle}{Journal of Regional Science}
+      \field{number}{2}
+      \field{title}{Evaluating the Temporal and Spatial Heterogeneity of the European Convergence Process, 1980--1999*}
+      \field{volume}{46}
+      \field{year}{2006}
+      \field{pages}{269\bibrangedash 288}
+    \endentry
+    \entry{le2008spatial}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d0895b90b18be19a6013abe240ee4be2}{Le\bibnamedelima Gallo}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cf57721dc13f39b1a8e86bde467de834}{Dall'Erba}{D\bibinitperiod}{Sandy}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d0895b90b18be19a6013abe240ee4be2}{Le\bibnamedelima Gallo}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{Julie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cf57721dc13f39b1a8e86bde467de834}{Dall'Erba}{D\bibinitperiod}{Sandy}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{bb6e22fed4d80bbd47d08c45d04e8024}
+      \strng{fullhash}{bb6e22fed4d80bbd47d08c45d04e8024}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Spatial and sectoral productivity convergence between European regions, 1975--2000*}
+      \field{journaltitle}{Papers in Regional Science}
+      \field{number}{4}
+      \field{title}{Spatial and sectoral productivity convergence between European regions, 1975--2000*}
+      \field{volume}{87}
+      \field{year}{2008}
+      \field{pages}{505\bibrangedash 525}
+    \endentry
+    \entry{malecki2002hard}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2299fcf8455b23a58f4a984efabd08cc}{Malecki}{M\bibinitperiod}{Edward\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2299fcf8455b23a58f4a984efabd08cc}{Malecki}{M\bibinitperiod}{Edward\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{2299fcf8455b23a58f4a984efabd08cc}
+      \strng{fullhash}{2299fcf8455b23a58f4a984efabd08cc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Hard and soft networks for urban competitiveness}
+      \field{journaltitle}{Urban Studies}
+      \field{number}{5-6}
+      \field{title}{Hard and soft networks for urban competitiveness}
+      \field{volume}{39}
+      \field{year}{2002}
+      \field{pages}{929\bibrangedash 945}
+    \endentry
+    \entry{MANKIW1992}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=cfbf9ecc553352d44fcea20f35e7bc19}{Mankiw}{M\bibinitperiod}{N.\bibnamedelimi G.}{N\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=14246dc81216ad0d902fa638993bce93}{Romer}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=39d6b286a73d54f12f48f8d5667c5bf3}{Weil}{W\bibinitperiod}{D.\bibnamedelimi N.}{D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=cfbf9ecc553352d44fcea20f35e7bc19}{Mankiw}{M\bibinitperiod}{N.\bibnamedelimi G.}{N\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=14246dc81216ad0d902fa638993bce93}{Romer}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=39d6b286a73d54f12f48f8d5667c5bf3}{Weil}{W\bibinitperiod}{D.\bibnamedelimi N.}{D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a9c5fef3c6980a60913ce9787ce7ac57}
+      \strng{fullhash}{b9f054195ca713d20ba37749876562a2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{1992}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{A Contribution to the Empiricis of Economic Growth}}
+      \field{journaltitle}{Quarterly Journal of Economics}
+      \field{title}{{A Contribution to the Empiricis of Economic Growth}}
+      \field{volume}{107}
+      \field{year}{1992}
+      \field{pages}{407\bibrangedash 437}
+    \endentry
+    \entry{melo2009meta}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=5481c86fb922673a57d4e58d7cd8e1da}{Melo}{M\bibinitperiod}{Patricia\bibnamedelima C}{P\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=cabc97a5e3908b1c6be193eff9e0b3ee}{Graham}{G\bibinitperiod}{Daniel\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=11e7dbd950a2f2ebb006111bf54ed257}{Noland}{N\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=5481c86fb922673a57d4e58d7cd8e1da}{Melo}{M\bibinitperiod}{Patricia\bibnamedelima C}{P\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=cabc97a5e3908b1c6be193eff9e0b3ee}{Graham}{G\bibinitperiod}{Daniel\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=11e7dbd950a2f2ebb006111bf54ed257}{Noland}{N\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b6519b8d6362c56ce7049c893867c61e}
+      \strng{fullhash}{dda5abb6d4981a4da3d0b014a0f8147e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A meta-analysis of estimates of urban agglomeration economies}
+      \field{journaltitle}{Regional science and urban Economics}
+      \field{number}{3}
+      \field{title}{A meta-analysis of estimates of urban agglomeration economies}
+      \field{volume}{39}
+      \field{year}{2009}
+      \field{pages}{332\bibrangedash 342}
+    \endentry
+    \entry{Thissen2013b}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=95c505489bad3089ba45c48cad4d317b}{Thissen}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfc6c5a22742181c79a13b6ca015a17}{Diodato}{D\bibinitperiod}{Dario}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=95c505489bad3089ba45c48cad4d317b}{Thissen}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfc6c5a22742181c79a13b6ca015a17}{Diodato}{D\bibinitperiod}{Dario}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {The Hague: The PBL Netherlands Environmental Assessment Agency}%
+      }
+      \strng{namehash}{8a960ad21609d23d08ec88d7d1bc5bc3}
+      \strng{fullhash}{8a960ad21609d23d08ec88d7d1bc5bc3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{extrayear}{1}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Trade between European Nuts2 Regions from 2000 to 2010}
+      \field{title}{Trade between European Nuts2 Regions from 2000 to 2010}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{Thissen2013}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=95c505489bad3089ba45c48cad4d317b}{Thissen}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfc6c5a22742181c79a13b6ca015a17}{Diodato}{D\bibinitperiod}{Dario}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=95c505489bad3089ba45c48cad4d317b}{Thissen}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfc6c5a22742181c79a13b6ca015a17}{Diodato}{D\bibinitperiod}{Dario}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {The Hague: The PBL Netherlands Environmental Assessment Agency}%
+      }
+      \strng{namehash}{8a960ad21609d23d08ec88d7d1bc5bc3}
+      \strng{fullhash}{8a960ad21609d23d08ec88d7d1bc5bc3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{extrayear}{2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Trade between European Nuts2 Regions in 2000}
+      \field{title}{Trade between European Nuts2 Regions in 2000}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{thissen2013regional}{book}{}
+      \name{labelname}{4}{}{%
+        {{hash=95c505489bad3089ba45c48cad4d317b}{Thissen}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7530040a6e987e06576ddbdcb8666a33}{Oort}{O\bibinitperiod}{Frank}{F\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=2bfc6c5a22742181c79a13b6ca015a17}{Diodato}{D\bibinitperiod}{Dario}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cdb2cef1ff1a0aa42158152b92c418a7}{Ruijs}{R\bibinitperiod}{Arjan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=95c505489bad3089ba45c48cad4d317b}{Thissen}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7530040a6e987e06576ddbdcb8666a33}{Oort}{O\bibinitperiod}{Frank}{F\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=2bfc6c5a22742181c79a13b6ca015a17}{Diodato}{D\bibinitperiod}{Dario}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cdb2cef1ff1a0aa42158152b92c418a7}{Ruijs}{R\bibinitperiod}{Arjan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{9149a53844e6f475c02775723842ddd3}
+      \strng{fullhash}{e45e19ac385857b1617b80bd6dd07574}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Regional Competitiveness and Smart Specialization in Europe: Place-based Development in International Economic Networks}
+      \field{title}{Regional Competitiveness and Smart Specialization in Europe: Place-based Development in International Economic Networks}
+      \field{year}{2013}
+    \endentry
+    \entry{tracey2003alliances}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=56c6966164035a2cb1853c413de38214}{Tracey}{T\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=56ac835801cbd7e20c6d959ac6788bf7}{Clark}{C\bibinitperiod}{Gordon\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=56c6966164035a2cb1853c413de38214}{Tracey}{T\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=56ac835801cbd7e20c6d959ac6788bf7}{Clark}{C\bibinitperiod}{Gordon\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0cf09edaa121a95d6a7ce2e09a4f0f9f}
+      \strng{fullhash}{0cf09edaa121a95d6a7ce2e09a4f0f9f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Alliances, networks and competitive strategy: rethinking clusters of innovation}
+      \field{journaltitle}{Growth and change}
+      \field{number}{1}
+      \field{title}{Alliances, networks and competitive strategy: rethinking clusters of innovation}
+      \field{volume}{34}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 16}
+    \endentry
+    \entry{worldbank2009}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b7b1392937b89054ef8d8bf494c8dae0}{{World\bibnamedelimb Bank}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b7b1392937b89054ef8d8bf494c8dae0}{{World\bibnamedelimb Bank}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Washington, DC: World Bank}%
+      }
+      \strng{namehash}{b7b1392937b89054ef8d8bf494c8dae0}
+      \strng{fullhash}{b7b1392937b89054ef8d8bf494c8dae0}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{World Development Report 2009: Reshaping Economic Geography}
+      \field{title}{World Development Report 2009: Reshaping Economic Geography}
+      \field{year}{2009}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

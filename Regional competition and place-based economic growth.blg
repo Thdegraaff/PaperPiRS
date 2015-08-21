@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'Regional competition and place-based economic growth.blg'
+[45] biber-darwin:277> INFO - === Tue Jun  2, 2015, 16:47:36
+[45] Biber.pm:333> INFO - Reading 'Regional competition and place-based economic growth.bcf'
+[123] Biber.pm:635> INFO - Found 26 citekeys in bib section 0
+[149] Biber.pm:3051> INFO - Processing section 0
+[172] Biber.pm:3189> INFO - Looking for bibtex format file 'references.bib' for section 0
+[177] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[181] bibtex.pm:864> INFO - Found BibTeX data source 'references.bib'
+[511] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[511] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[511] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[511] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[619] bbl.pm:517> INFO - Writing 'Regional competition and place-based economic growth.bbl' with encoding 'UTF-8'
+[623] bbl.pm:606> INFO - Output to Regional competition and place-based economic growth.bbl
