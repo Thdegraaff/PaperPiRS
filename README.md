@@ -5,13 +5,14 @@ This repository contains material for a paper titled **Regional competition and 
 
 ## Contents of the repository
 
-This repository consists of:
+At the moment this repository only consists of:
 
-- R scripts for the analyses</li>
-- Text of both presentations and paper</li>
-- Figures</li>
-
+- Text of paper
 
 This repository does not contain:
 
 - The underlying raw data because of proprietary issues
+- Figures
+- Scripts
+
+Please contact me if you need additional material
