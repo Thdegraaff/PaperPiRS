@@ -8,11 +8,14 @@ This repository contains material for a paper titled **Regional competition and 
 At the moment this repository only consists of:
 
 - Text of paper
+- Pdf of paper
+- Scripts for data manipulation, estimation and figure generation
+- Selected figures
 
 This repository does not contain:
 
 - The underlying raw data because of proprietary issues
-- Figures
-- Scripts
+- All other figures
+- Material for presentations
 
 Please contact me if you need additional material
